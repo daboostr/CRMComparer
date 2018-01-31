@@ -1,0 +1,8 @@
+C:\Users\efbarbat\Downloads\CRMComparerProject\trunk\Microsoft.Crm.Isv\bin\Release\Microsoft.Crm.Isv.dll
+C:\Users\efbarbat\Downloads\CRMComparerProject\trunk\Microsoft.Crm.Isv\bin\Release\Microsoft.Crm.Isv.pdb
+C:\Users\efbarbat\Downloads\CRMComparerProject\trunk\Microsoft.Crm.Isv\bin\Release\Ionic.Zip.dll
+C:\Users\efbarbat\Downloads\CRMComparerProject\trunk\Microsoft.Crm.Isv\bin\Release\microsoft.crm.sdk.dll
+C:\Users\efbarbat\Downloads\CRMComparerProject\trunk\Microsoft.Crm.Isv\bin\Release\microsoft.crm.sdktypeproxy.dll
+C:\Users\efbarbat\Downloads\CRMComparerProject\trunk\Microsoft.Crm.Isv\obj\Release\Microsoft.Crm.Isv.dll
+C:\Users\efbarbat\Downloads\CRMComparerProject\trunk\Microsoft.Crm.Isv\obj\Release\Microsoft.Crm.Isv.pdb
+C:\Users\efbarbat\Downloads\CRMComparerProject\trunk\Microsoft.Crm.Isv\obj\Release\Microsoft.Crm.Isv.csprojResolveAssemblyReference.cache

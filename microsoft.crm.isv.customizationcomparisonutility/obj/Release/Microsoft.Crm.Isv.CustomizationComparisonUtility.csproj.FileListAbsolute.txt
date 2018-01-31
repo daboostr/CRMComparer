@@ -1,0 +1,19 @@
+C:\Users\efbarbat\Downloads\CRMComparerProject\trunk\Microsoft.Crm.Isv.CustomizationComparisonUtility\bin\Release\CRM 2013 Customization Comparison Utility.exe.config
+C:\Users\efbarbat\Downloads\CRMComparerProject\trunk\Microsoft.Crm.Isv.CustomizationComparisonUtility\bin\Release\CRM 2013 Customization Comparison Utility.exe
+C:\Users\efbarbat\Downloads\CRMComparerProject\trunk\Microsoft.Crm.Isv.CustomizationComparisonUtility\bin\Release\CRM 2013 Customization Comparison Utility.pdb
+C:\Users\efbarbat\Downloads\CRMComparerProject\trunk\Microsoft.Crm.Isv.CustomizationComparisonUtility\bin\Release\Microsoft.Crm.Isv.dll
+C:\Users\efbarbat\Downloads\CRMComparerProject\trunk\Microsoft.Crm.Isv.CustomizationComparisonUtility\bin\Release\Microsoft.Crm.Sdk.dll
+C:\Users\efbarbat\Downloads\CRMComparerProject\trunk\Microsoft.Crm.Isv.CustomizationComparisonUtility\bin\Release\Microsoft.Crm.SdkTypeProxy.dll
+C:\Users\efbarbat\Downloads\CRMComparerProject\trunk\Microsoft.Crm.Isv.CustomizationComparisonUtility\bin\Release\Ionic.Zip.dll
+C:\Users\efbarbat\Downloads\CRMComparerProject\trunk\Microsoft.Crm.Isv.CustomizationComparisonUtility\bin\Release\Microsoft.Crm.Isv.pdb
+C:\Users\efbarbat\Downloads\CRMComparerProject\trunk\Microsoft.Crm.Isv.CustomizationComparisonUtility\obj\Release\Microsoft.Crm.Isv.CustomizationComparisonUtility.csprojResolveAssemblyReference.cache
+C:\Users\efbarbat\Downloads\CRMComparerProject\trunk\Microsoft.Crm.Isv.CustomizationComparisonUtility\obj\Release\Microsoft.Crm.Isv.CustomizationComparisonUtility.MainForm.resources
+C:\Users\efbarbat\Downloads\CRMComparerProject\trunk\Microsoft.Crm.Isv.CustomizationComparisonUtility\obj\Release\Microsoft.Crm.Isv.CustomizationComparisonUtility.OpenFilesForm.resources
+C:\Users\efbarbat\Downloads\CRMComparerProject\trunk\Microsoft.Crm.Isv.CustomizationComparisonUtility\obj\Release\Microsoft.Crm.Isv.CustomizationComparisonUtility.Properties.Resources.resources
+C:\Users\efbarbat\Downloads\CRMComparerProject\trunk\Microsoft.Crm.Isv.CustomizationComparisonUtility\obj\Release\Microsoft.Crm.Isv.CustomizationComparisonUtility.csproj.GenerateResource.Cache
+C:\Users\efbarbat\Downloads\CRMComparerProject\trunk\Microsoft.Crm.Isv.CustomizationComparisonUtility\obj\Release\CRM 2013 Customization Comparison Utility.exe
+C:\Users\efbarbat\Downloads\CRMComparerProject\trunk\Microsoft.Crm.Isv.CustomizationComparisonUtility\obj\Release\CRM 2013 Customization Comparison Utility.pdb
+C:\Users\efbarbat\Downloads\CRMComparerProject\trunk\Microsoft.Crm.Isv.CustomizationComparisonUtility\bin\Release\CRM 2013 Customization Comparison Utility.exe.manifest
+C:\Users\efbarbat\Downloads\CRMComparerProject\trunk\Microsoft.Crm.Isv.CustomizationComparisonUtility\bin\Release\CRM 2013 Customization Comparison Utility.application
+C:\Users\efbarbat\Downloads\CRMComparerProject\trunk\Microsoft.Crm.Isv.CustomizationComparisonUtility\obj\Release\CRM 2013 Customization Comparison Utility.exe.manifest
+C:\Users\efbarbat\Downloads\CRMComparerProject\trunk\Microsoft.Crm.Isv.CustomizationComparisonUtility\obj\Release\CRM 2013 Customization Comparison Utility.application
